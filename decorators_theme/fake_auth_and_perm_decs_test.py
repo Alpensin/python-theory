@@ -1,5 +1,5 @@
 import unittest
-from decorators.fake_auth_and_perm_decs import (
+from decorators_theme.fake_auth_and_perm_decs import (
     run_action,
     AuthorizationException,
     PermissionException,
